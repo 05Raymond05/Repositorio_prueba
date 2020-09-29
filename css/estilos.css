@@ -1,10 +1,9 @@
 body{
-    background-color: brown;
-
+    background-color: cadetblue ;
 
 
 }
-main{
+.main{
 width: 70%;
 margin: 20px auto;
 border: 1px solid blue;
