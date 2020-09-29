@@ -4,17 +4,18 @@ body{
 
 }
 .main{
-width: 60%;
+width: 80%;
 margin: 20px auto;
 border: 1px solid blue;
 padding: 20px;
-background-color: burlywood;
+background-color: brown;
 }
 h2{
     margin-top: 0px ;
+    color: chocolate;
 }
 .encabezado{
-    background-color: darkred;
+    background-color: blueviolet;
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
